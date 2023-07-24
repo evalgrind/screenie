@@ -1,5 +1,5 @@
-### Website thumbnail generator using ScreenshotAPI
-Website that generates a 300x300 thumnail from a website's homepage using ScreenshotAPI.
+### Screenie
+A Go program with Vue that generates a 300x300 thumbnail from a website's homepage using ScreenshotAPI.
 
 #### Build Instructions
 To run this application, run:
