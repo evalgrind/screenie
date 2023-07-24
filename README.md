@@ -5,6 +5,7 @@ API implementation from [freeCodeCamp](https://www.freecodecamp.org/news/how-i-s
 #### Build Instructions
 To run this application, run:
 ```
+screenie $ cd frontend/ && vue build
 screenie $ go run server/serve.go
 ```
 
